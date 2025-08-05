@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Document</title>
+     <link rel="stylesheet" href="menu.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+     
+     <div class="menu">
+          <a href="#home" class="active">Home</a>
+          <a href="#news">News</a>
+          <a href="#contact">Contact</a>
+          <a href="#about">About</a>
+          <a href="javascript:void(0);" class="icon">
+               <i class="fa fa-bars"></i>
+          </a>
+     </div>
+
+     <!-- menu for mobile -->
+      <div class="main-menu-s">
+          <a href="javascript:void(0);" class="icon" onclick="myFunction();">
+               <i class="fa fa-bars"></i>
+          </a>
+          <div class="mobile-menu" id="menuID">
+          <a href="#home" class="active">Home</a>
+          <a href="#news">News</a>
+          <a href="#contact">Contact</a>
+          <a href="#about">About</a>
+     </div>
+      </div>
+      
+
+     <div class="mobile-container">
+          <div class="content">
+               <div class="left">
+                    <h1>Learn Form the <span>coolest</span> coding platform of India.</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate necessitatibus quia,
+                         accusantium
+                         sapiente a ex vel esse commodi sed repellendus?</p>
+                    <button>Explore Now</button>
+               </div>
+               <div class="right">
+                    <img src="hand-coding-concept-illustration_114360-8113.avif" />
+               </div>
+          </div>
+     </div>
+</body>
+function myFunction() {
+  var x = document.getElementById("menuID");
+  if (x.style.display === "none" || x.style.display === "") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  } 
+}
+
+</html>

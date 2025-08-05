@@ -1,0 +1,59 @@
+🍽️ Gourmet au Catering Website
+This is a responsive catering website built using HTML and CSS. It showcases a catering service with sections like About, Menu, and Contact, providing a modern and clean layout.
+
+📌 Features
+Fixed Navigation Bar with hover effects
+
+Hero Image Section with overlay text
+
+About Section with text and image side by side
+
+Menu Section listing food items and prices
+
+Contact Section with address, contact info, and input form
+
+Footer with credits
+
+Responsive and clean design
+
+🛠️ Technologies Used
+HTML5 – Structure of the webpage
+
+CSS3 – Styling and layout
+
+Flexbox – For responsive layout alignment
+
+📂 Project Structure
+bash
+Copy
+Edit
+├── index.html          # Main HTML file
+├── catering.css        # External CSS file
+├── hamburger.jpg       # Hero image
+├── tablesetting2.jpg   # About section image
+├── tablesetting.jpg    # Menu section image
+└── README.md           # Project documentation
+🚀 How to Use
+Clone or download this repository.
+
+Place all image files (hamburger.jpg, tablesetting2.jpg, tablesetting.jpg) in the same folder as index.html.
+
+Open index.html in any modern browser.
+
+## 📸 Screenshot
+
+Here is a preview of the website:
+
+![Website Screenshot](C:\Users\yashp\Pictures\Screenshots)
+
+
+
+📝 Future Enhancements
+Make the website fully responsive on mobile devices.
+
+Add form validation for the contact section.
+
+Include animations and transition effects for better user experience.
+
+📧 Contact
+For any queries, reach out at: catering@catering.com
