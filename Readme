@@ -1,59 +1,65 @@
-🍽️ Gourmet au Catering Website
-This is a responsive catering website built using HTML and CSS. It showcases a catering service with sections like About, Menu, and Contact, providing a modern and clean layout.
+# 🎯 Flexbox CSS Layout Project
 
-📌 Features
-Fixed Navigation Bar with hover effects
+This project demonstrates how to build **modern, responsive layouts** using **CSS Flexbox**.  
+Flexbox simplifies the process of aligning, distributing, and ordering elements within a container, making it a powerful tool for web developers.
 
-Hero Image Section with overlay text
+## 📌 Features
+- ✅ Fully responsive layout using Flexbox  
+- ✅ Easy alignment (horizontal & vertical)  
+- ✅ Space distribution without using floats or positioning hacks  
+- ✅ Clean and minimal code structure  
+- ✅ Beginner-friendly examples  
 
-About Section with text and image side by side
+## 🛠️ Technologies Used
+- **HTML5** – For semantic structure  
+- **CSS3 (Flexbox)** – For layout and styling  
 
-Menu Section listing food items and prices
+## 📂 Project Structure
+flexbox-layout/
+│── index.html # Main HTML file
+│── style.css # Flexbox styling
+│── images/ # Project images
+│── README.md # Project documentation
 
-Contact Section with address, contact info, and input form
 
-Footer with credits
 
-Responsive and clean design
+## 🚀 How to Use
+1. Clone or download this repository.  
+2. Open `index.html` in your browser.  
+3. Modify `style.css` to experiment with different flexbox properties.
 
-🛠️ Technologies Used
-HTML5 – Structure of the webpage
+## 📚 Key Flexbox Properties Used
+- `display: flex;` – Enables Flexbox layout  
+- `justify-content` – Controls horizontal alignment  
+- `align-items` – Controls vertical alignment  
+- `flex-wrap` – Allows items to wrap onto multiple lines  
+- `flex-grow`, `flex-shrink`, `flex-basis` – Controls item size behavior  
 
-CSS3 – Styling and layout
+## 📷 Screenshots
+Add screenshots of your Flexbox layout examples: php-template
 
-Flexbox – For responsive layout alignment
 
-📂 Project Structure
-bash
-Copy
-Edit
-├── index.html          # Main HTML file
-├── catering.css        # External CSS file
-├── hamburger.jpg       # Hero image
-├── tablesetting2.jpg   # About section image
-├── tablesetting.jpg    # Menu section image
-└── README.md           # Project documentation
-🚀 How to Use
-Clone or download this repository.
 
-Place all image files (hamburger.jpg, tablesetting2.jpg, tablesetting.jpg) in the same folder as index.html.
 
-Open index.html in any modern browser.
+🤝 Contribution
+You can fork this repository and contribute by adding new Flexbox examples.
+
+📄 License
+This project is licensed under the MIT License – you are free to use, share, and modify it. yaml
+
+
+
+# My Project
+
+This is a demo project of Bootstrap Grid.
 
 ## 📸 Screenshot
 
-Here is a preview of the website:
+![Grid Example](# My Project
 
-![Website Screenshot](C:\Users\yashp\Pictures\Screenshots)
+This is a demo project of Bootstrap Grid.
 
+## 📸 This is  City template screenshot
 
+![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-flexbox-css-flex-css/refs/heads/main/City/Screenshot%202025-08-06%20023118.png)
 
-📝 Future Enhancements
-Make the website fully responsive on mobile devices.
-
-Add form validation for the contact section.
-
-Include animations and transition effects for better user experience.
-
-📧 Contact
-For any queries, reach out at: catering@catering.com
