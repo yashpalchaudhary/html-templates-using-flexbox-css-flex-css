@@ -21,7 +21,27 @@ It helps beginners understand how different CSS approaches can be applied to cre
 2. Open `index.html` in any modern browser.  
 3. Switch between different CSS files to see how styles change.
 
-## 📸 Screenshot
-Here is an example screenshot of the Band Template:
 
-![Band Template Screenshot](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-flexbox-css-flex-css/refs/heads/main/Lecatering/Screenshot%202025-08-01%20140501.png)
+
+
+
+
+
+
+## 📸 Screenshot
+Here is an example screenshot of the City Template:
+
+![City  Template Screenshot](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-flexbox-css-flex-css/refs/heads/main/City/Screenshot%202025-08-06%20023118.png)
+
+
+
+
+## 📸 Screenshot
+Here is an example screenshot of the Lecatering Template:
+
+![Lecatering  Template Screenshot](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-flexbox-css-flex-css/refs/heads/main/Lecatering/Screenshot%202025-08-01%20140501.png)
+
+
+
+
+
