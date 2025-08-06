@@ -15,35 +15,13 @@ It helps beginners understand how different CSS approaches can be applied to cre
 - **CSS3** – For styling (normal, custom, and float techniques)  
 
 ## 📂 Project Structure
-normal-custom-or-float-css/
-│── index.html # Main HTML file
-│── normal.css # Basic CSS styling
-│── custom.css # Custom CSS styling
-│── float.css # Float-based layout styling
-│── images/ # Images used in the project
-│── README.md # Project documentation
-
-markdown
-Copy
-Edit
 
 ## 🚀 How to Use
 1. Clone or download this repository.  
 2. Open `index.html` in any modern browser.  
 3. Switch between different CSS files to see how styles change.
 
-# My Project
-
-This is a demo project of 
-
 ## 📸 Screenshot
+Here is an example screenshot of the Band Template:
 
-![Grid Example](# My Project
-
-This is a demo project of 
-
-## 📸 This is Band template screenshot
-
-![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-flexbox-css-flex-css/refs/heads/main/City/Screenshot%202025-08-06%20023118.png)
-
-
+![Band Template Screenshot](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-flexbox-css-flex-css/refs/heads/main/City/Screenshot%202025-08-06%20023118.png)
