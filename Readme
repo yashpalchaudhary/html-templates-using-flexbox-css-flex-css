@@ -1,64 +1,61 @@
-# 🎯 Flexbox CSS Layout Project
+# 📐 CSS Grid Layout Project
 
-This project demonstrates how to build **modern, responsive layouts** using **CSS Flexbox**.  
-Flexbox simplifies the process of aligning, distributing, and ordering elements within a container, making it a powerful tool for web developers.
+This project demonstrates the use of **CSS Grid** to create modern, responsive, and flexible web layouts.  
+CSS Grid is a powerful 2D layout system that allows developers to design web pages using rows and columns with ease.
 
-## 📌 Features
-- ✅ Fully responsive layout using Flexbox  
-- ✅ Easy alignment (horizontal & vertical)  
-- ✅ Space distribution without using floats or positioning hacks  
-- ✅ Clean and minimal code structure  
-- ✅ Beginner-friendly examples  
+---
+
+## 🚀 Features
+- ✅ Fully responsive design  
+- ✅ Easy to manage rows and columns  
+- ✅ Supports complex layouts  
+- ✅ Clean and minimal code  
+- ✅ Cross-browser support  
+
+---
 
 ## 🛠️ Technologies Used
-- **HTML5** – For semantic structure  
-- **CSS3 (Flexbox)** – For layout and styling  
+- **HTML5** – Structure of the webpage  
+- **CSS3 (Grid)** – Layout and styling  
 
-## 📂 Project Structure
-flexbox-layout/
-│── index.html # Main HTML file
-│── style.css # Flexbox styling
-│── images/ # Project images
-│── README.md # Project documentation
+---
 
-markdown
-Copy
-Edit
+## 📌 How to Use
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/yourusername/css-grid-layout.git
+Open the index.html file in your browser.
 
-## 🚀 How to Use
-1. Clone or download this repository.  
-2. Open `index.html` in your browser.  
-3. Modify `style.css` to experiment with different flexbox properties.
+Explore and customize the layout in style.css.
 
-## 📚 Key Flexbox Properties Used
-- `display: flex;` – Enables Flexbox layout  
-- `justify-content` – Controls horizontal alignment  
-- `align-items` – Controls vertical alignment  
-- `flex-wrap` – Allows items to wrap onto multiple lines  
-- `flex-grow`, `flex-shrink`, `flex-basis` – Controls item size behavior  
+
+
+
+📚 Key CSS Grid Properties Used
+display: grid;
+
+grid-template-columns
+
+grid-template-rows
+
+gap
+
+grid-column and grid-row
+
+justify-items, align-items, place-items
+
+# My Project
+
+This is a demo project of 
 
 ## 📸 Screenshot
 
 ![Grid Example](# My Project
 
-This is a demo project of Bootstrap Grid.
+This is a demo project of 
 
-## 📸 This is  Myprofile template screenshot
+## 📸 This is Band template screenshot
 
 ![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-flexbox-css-flex-css/refs/heads/main/City/Screenshot%202025-08-06%20023118.png)
-
-
-This is a demo project of Bootstrap Grid.
-
-## 📸 This is  Myprofile template screenshot
-
-![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-flexbox-css-flex-css/refs/heads/main/Lecatering/Screenshot%202025-08-01%20140501.png)
-
-
-This is a demo project of Bootstrap Grid.
-
-## 📸 This is  Myprofile template screenshot
-
-![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-flexbox-css-flex-css/refs/heads/main/Myprofile/Screenshot%202025-08-01%20203328.png)
 
 
