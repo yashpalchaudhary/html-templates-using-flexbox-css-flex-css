@@ -1,28 +1,45 @@
-# 🎨 Normal vs Custom vs Float CSS
+# 🌐 Flexbox CSS Project
 
-This project demonstrates the usage and differences between **Normal CSS**, **Custom CSS**, and **Float-based CSS Layouts**.  
-It helps beginners understand how different CSS approaches can be applied to create responsive and well-structured web pages.
+This project demonstrates how to use **CSS Flexbox** to create responsive and modern web layouts.  
+Flexbox simplifies the process of aligning, distributing, and ordering elements within a container, making it easier to build dynamic user interfaces.
 
 ## 📌 Features
-- ✅ Example of **Normal CSS** styling  
-- ✅ Example of **Custom CSS** for enhanced design  
-- ✅ Example of **Float CSS** layout techniques  
-- ✅ Easy to understand and customize  
-- ✅ Beginner-friendly code structure  
+- ✅ Examples of **Flex container** and **Flex items**  
+- ✅ Responsive layout without using floats or positioning hacks  
+- ✅ Horizontal & vertical centering made easy  
+- ✅ Control over spacing, alignment, and order of elements  
+- ✅ Clean, minimal, and mobile-friendly design  
 
 ## 🛠️ Technologies Used
-- **HTML5** – For structuring the content  
-- **CSS3** – For styling (normal, custom, and float techniques)  
+- **HTML5**  
+- **CSS3 (Flexbox)**  
 
 ## 📂 Project Structure
-
-## 🚀 How to Use
-1. Clone or download this repository.  
-2. Open `index.html` in any modern browser.  
-3. Switch between different CSS files to see how styles change.
-
+/flexbox-css-project
+│── index.html # Main HTML file
+│── style.css # CSS styling using Flexbox
+└── README.md # Project documentation
 
 
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/flexbox-css-project.git
+Open index.html in your browser.
+
+🎯 Key Flexbox Properties Used
+display: flex;
+
+justify-content
+
+align-items
+
+flex-wrap
+
+flex-direction
+
+align-content
+
+order & flex-grow
 
 
 
