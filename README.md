@@ -75,17 +75,36 @@ Here is an example screenshot of the Gallery Template:
 
 
 ## 📸 Screenshot
-Here is an example screenshot of the Template:
+Here is an example screenshot of the Jeans Template:
 
-![ Template Screenshot]()
+![Jeans Template Screenshot](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-flexbox-css-flex-css/refs/heads/main/jeans/Screenshot%202025-08-01%20141354.png)
 
 
 
 
 ## 📸 Screenshot
-Here is an example screenshot of the Template:
+Here is an example screenshot of the Myportfolio Template:
 
-![ Template Screenshot]()
+![Myportfolio Template Screenshot](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-flexbox-css-flex-css/refs/heads/main/myportfolio/Screenshot%202025-08-01%20190015%20copy.png)
+
+
+
+
+## 📸 Screenshot
+Here is an example screenshot of the Mywibsite Template:
+
+![Mywibsite  Template Screenshot](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-flexbox-css-flex-css/refs/heads/main/mywebsite/Screenshot%202025-08-05%20222001.png)
+
+
+
+
+## 📸 Screenshot
+Here is an example screenshot of the Workexperience Template:
+
+![ Template Screenshot](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-flexbox-css-flex-css/refs/heads/main/workExperience/Screenshot%202025-08-01%20193029.png)
+
+
+
 
 
 
